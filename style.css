@@ -5,7 +5,7 @@ body {
 #yourmom {
     position:relative;
     animation-name:shrinkgrow;
-    animation-duration:0.45s;
+    animation-duration:0.0001s;
     animation-iteration-count: infinite;
 
 }
